@@ -13,3 +13,14 @@ Here are some ideas to get you started:
   😄 Pronouns: she/her
 - ⚡ Fun fact: I only started coding a couple of months ago
 -->
+
+-I’m currently a rising junior in high school and my goal is to learn 2 more coding languages by next year.
+- 🌱 I’m currently learning HTML and CSS 
+- 👯 I’m looking to collaborate on web design projects 
+- 🤔 I’m looking for help with Javascript/css
+- 💬 things that interest me: Web design, Graphic Design
+  😄 Pronouns: she/her
+- ⚡ Fun fact: I only started coding a couple of months ago
+- 📚 projects: club flyers, web design final project, several web pages
+   - 😃 My current hobbies are baking, reading, and watching films
+-->
